@@ -12,7 +12,7 @@ If you are looking for the source code of the [React Native Archive website](htt
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## ✈️ Getting started
+## ✈️ Getting starteds
 
 ### Prerequisites
 
